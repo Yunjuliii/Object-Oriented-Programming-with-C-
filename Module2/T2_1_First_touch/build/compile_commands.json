@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_1_First_touch/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_1_First_touch/. -I/home/lyj/cpp-course/Module_2/T2_1_First_touch/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/first_touch.dir/src/first.cpp.o -c /home/lyj/cpp-course/Module_2/T2_1_First_touch/src/first.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_1_First_touch/src/first.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_1_First_touch/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_1_First_touch/. -I/home/lyj/cpp-course/Module_2/T2_1_First_touch/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/first_touch.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_2/T2_1_First_touch/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_1_First_touch/src/main.cpp"
+}
+]

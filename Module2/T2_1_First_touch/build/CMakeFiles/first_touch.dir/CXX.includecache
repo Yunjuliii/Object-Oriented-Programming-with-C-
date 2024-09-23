@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_2/T2_1_First_touch/src/first.cpp
+first.hpp
+/home/lyj/cpp-course/Module_2/T2_1_First_touch/src/first.hpp
+iostream
+-
+
+/home/lyj/cpp-course/Module_2/T2_1_First_touch/src/first.hpp
+

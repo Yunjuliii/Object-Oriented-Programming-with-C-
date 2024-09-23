@@ -1,0 +1,3 @@
+/home/lyj/cpp-course/Module_2/T2_1_First_touch/build/CMakeFiles/rebuild_cache.dir
+/home/lyj/cpp-course/Module_2/T2_1_First_touch/build/CMakeFiles/edit_cache.dir
+/home/lyj/cpp-course/Module_2/T2_1_First_touch/build/CMakeFiles/first_touch.dir

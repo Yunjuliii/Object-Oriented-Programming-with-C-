@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/first_touch.dir/src/first.cpp.o CMakeFiles/first_touch.dir/src/main.cpp.o  -o first_touch 
