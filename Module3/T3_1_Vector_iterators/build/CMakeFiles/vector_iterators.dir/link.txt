@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/vector_iterators.dir/src/main.cpp.o CMakeFiles/vector_iterators.dir/src/vector_it.cpp.o  -o vector_iterators 

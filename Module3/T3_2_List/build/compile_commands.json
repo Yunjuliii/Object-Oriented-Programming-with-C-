@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_2_List/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_2_List/. -I/home/lyj/cpp-course/Module_3/T3_2_List/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/list.dir/src/list.cpp.o -c /home/lyj/cpp-course/Module_3/T3_2_List/src/list.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_2_List/src/list.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_2_List/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_2_List/. -I/home/lyj/cpp-course/Module_3/T3_2_List/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/list.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_3/T3_2_List/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_2_List/src/main.cpp"
+}
+]

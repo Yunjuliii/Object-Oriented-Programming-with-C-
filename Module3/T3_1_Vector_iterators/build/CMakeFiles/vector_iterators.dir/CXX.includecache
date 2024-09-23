@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_3/T3_1_Vector_iterators/src/vector_it.cpp
+vector_it.hpp
+/home/lyj/cpp-course/Module_3/T3_1_Vector_iterators/src/vector_it.hpp
+iostream
+-
+vector
+-
+
+/home/lyj/cpp-course/Module_3/T3_1_Vector_iterators/src/vector_it.hpp
+vector
+-
+

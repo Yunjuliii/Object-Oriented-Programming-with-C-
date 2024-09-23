@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_3/T3_2_List/src/list.cpp
+list.hpp
+/home/lyj/cpp-course/Module_3/T3_2_List/src/list.hpp
+iostream
+-
+sstream
+-
+
+/home/lyj/cpp-course/Module_3/T3_2_List/src/list.hpp
+iostream
+-
+list
+-
+string
+-
+
