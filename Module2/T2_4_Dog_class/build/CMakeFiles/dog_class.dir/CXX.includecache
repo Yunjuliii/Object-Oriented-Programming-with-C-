@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/dog_class.cpp
+dog_class.hpp
+/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/dog_class.hpp
+
+/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/dog_class.hpp
+string
+-
+
+/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/main.cpp
+iostream
+-
+dog_class.hpp
+/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/dog_class.hpp
+

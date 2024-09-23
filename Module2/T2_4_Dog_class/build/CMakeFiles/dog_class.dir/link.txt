@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/dog_class.dir/src/dog_class.cpp.o CMakeFiles/dog_class.dir/src/main.cpp.o  -o dog_class 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_4_Dog_class/build",
+  "command": "/usr/bin/c++   -I/home/lyj/cpp-course/Module_2/T2_4_Dog_class/. -I/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/dog_class.dir/src/dog_class.cpp.o -c /home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/dog_class.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/dog_class.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_4_Dog_class/build",
+  "command": "/usr/bin/c++   -I/home/lyj/cpp-course/Module_2/T2_4_Dog_class/. -I/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/dog_class.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_4_Dog_class/src/main.cpp"
+}
+]

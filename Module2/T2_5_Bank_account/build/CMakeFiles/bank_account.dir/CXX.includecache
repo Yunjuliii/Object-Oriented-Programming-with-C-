@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_2/T2_5_Bank_account/src/bank_account.cpp
+bank_account.hpp
+/home/lyj/cpp-course/Module_2/T2_5_Bank_account/src/bank_account.hpp
+iostream
+-
+
+/home/lyj/cpp-course/Module_2/T2_5_Bank_account/src/bank_account.hpp
+string
+-
+

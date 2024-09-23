@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_5_Bank_account/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_5_Bank_account/. -I/home/lyj/cpp-course/Module_2/T2_5_Bank_account/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/bank_account.dir/src/bank_account.cpp.o -c /home/lyj/cpp-course/Module_2/T2_5_Bank_account/src/bank_account.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_5_Bank_account/src/bank_account.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_5_Bank_account/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_5_Bank_account/. -I/home/lyj/cpp-course/Module_2/T2_5_Bank_account/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/bank_account.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_2/T2_5_Bank_account/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_5_Bank_account/src/main.cpp"
+}
+]
