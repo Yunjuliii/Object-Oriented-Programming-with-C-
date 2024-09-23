@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src/vector_strings.cpp
+vector_strings.hpp
+/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src/vector_strings.hpp
+iostream
+-
+vector
+-
+
+/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src/vector_strings.hpp
+string
+-
+vector
+-
+

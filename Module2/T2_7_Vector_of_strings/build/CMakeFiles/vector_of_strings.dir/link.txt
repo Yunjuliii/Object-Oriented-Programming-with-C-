@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/vector_of_strings.dir/src/main.cpp.o CMakeFiles/vector_of_strings.dir/src/vector_strings.cpp.o  -o vector_of_strings 

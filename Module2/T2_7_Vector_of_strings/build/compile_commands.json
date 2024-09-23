@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/. -I/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/vector_of_strings.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src/main.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/. -I/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/vector_of_strings.dir/src/vector_strings.cpp.o -c /home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src/vector_strings.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_7_Vector_of_strings/src/vector_strings.cpp"
+}
+]

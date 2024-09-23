@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_6_Vectors/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_6_Vectors/. -I/home/lyj/cpp-course/Module_2/T2_6_Vectors/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/vectors.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_2/T2_6_Vectors/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_6_Vectors/src/main.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_6_Vectors/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_6_Vectors/. -I/home/lyj/cpp-course/Module_2/T2_6_Vectors/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/vectors.dir/src/vector.cpp.o -c /home/lyj/cpp-course/Module_2/T2_6_Vectors/src/vector.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_6_Vectors/src/vector.cpp"
+}
+]
