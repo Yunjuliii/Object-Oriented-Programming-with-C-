@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_3_Simple_class/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_3_Simple_class/. -I/home/lyj/cpp-course/Module_2/T2_3_Simple_class/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/simple_class.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_2/T2_3_Simple_class/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_3_Simple_class/src/main.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_3_Simple_class/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_3_Simple_class/. -I/home/lyj/cpp-course/Module_2/T2_3_Simple_class/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/simple_class.dir/src/person.cpp.o -c /home/lyj/cpp-course/Module_2/T2_3_Simple_class/src/person.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_3_Simple_class/src/person.cpp"
+}
+]

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_2/T2_3_Simple_class/src/main.cpp
+iostream
+-
+person.hpp
+/home/lyj/cpp-course/Module_2/T2_3_Simple_class/src/person.hpp
+
+/home/lyj/cpp-course/Module_2/T2_3_Simple_class/src/person.hpp
+string
+-
+

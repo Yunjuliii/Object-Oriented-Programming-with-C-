@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_2_Rectangle/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_2_Rectangle/. -I/home/lyj/cpp-course/Module_2/T2_2_Rectangle/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/rectangle.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_2/T2_2_Rectangle/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_2_Rectangle/src/main.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_2/T2_2_Rectangle/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_2/T2_2_Rectangle/. -I/home/lyj/cpp-course/Module_2/T2_2_Rectangle/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/rectangle.dir/src/rectangle.cpp.o -c /home/lyj/cpp-course/Module_2/T2_2_Rectangle/src/rectangle.cpp",
+  "file": "/home/lyj/cpp-course/Module_2/T2_2_Rectangle/src/rectangle.cpp"
+}
+]
