@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_1/T1_1_First_task/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_1/T1_1_First_task/. -I/home/lyj/cpp-course/Module_1/T1_1_First_task/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/first_task.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_1/T1_1_First_task/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_1/T1_1_First_task/src/main.cpp"
+}
+]
