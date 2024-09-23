@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/. -I/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/matrix_rotation.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src/main.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/. -I/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/matrix_rotation.dir/src/matrix.cpp.o -c /home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src/matrix.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src/matrix.cpp"
+}
+]

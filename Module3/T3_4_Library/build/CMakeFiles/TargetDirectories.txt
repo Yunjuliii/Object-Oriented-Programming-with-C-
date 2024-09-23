@@ -1,0 +1,3 @@
+/home/lyj/cpp-course/Module_3/T3_4_Library/build/CMakeFiles/rebuild_cache.dir
+/home/lyj/cpp-course/Module_3/T3_4_Library/build/CMakeFiles/edit_cache.dir
+/home/lyj/cpp-course/Module_3/T3_4_Library/build/CMakeFiles/library.dir

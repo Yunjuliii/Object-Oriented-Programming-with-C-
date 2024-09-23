@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/matrix_rotation.dir/src/main.cpp.o CMakeFiles/matrix_rotation.dir/src/matrix.cpp.o  -o matrix_rotation 

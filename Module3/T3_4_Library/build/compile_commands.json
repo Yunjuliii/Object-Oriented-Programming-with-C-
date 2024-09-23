@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_4_Library/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_4_Library/. -I/home/lyj/cpp-course/Module_3/T3_4_Library/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/library.dir/src/book.cpp.o -c /home/lyj/cpp-course/Module_3/T3_4_Library/src/book.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_4_Library/src/book.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_4_Library/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_4_Library/. -I/home/lyj/cpp-course/Module_3/T3_4_Library/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/library.dir/src/customer.cpp.o -c /home/lyj/cpp-course/Module_3/T3_4_Library/src/customer.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_4_Library/src/customer.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_4_Library/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_4_Library/. -I/home/lyj/cpp-course/Module_3/T3_4_Library/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/library.dir/src/library.cpp.o -c /home/lyj/cpp-course/Module_3/T3_4_Library/src/library.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_4_Library/src/library.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_4_Library/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_4_Library/. -I/home/lyj/cpp-course/Module_3/T3_4_Library/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/library.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_3/T3_4_Library/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_4_Library/src/main.cpp"
+}
+]

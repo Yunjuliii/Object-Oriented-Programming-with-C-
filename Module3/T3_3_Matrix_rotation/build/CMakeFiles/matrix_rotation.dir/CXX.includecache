@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src/matrix.cpp
+matrix.hpp
+/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src/matrix.hpp
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/lyj/cpp-course/Module_3/T3_3_Matrix_rotation/src/matrix.hpp
+vector
+-
+
