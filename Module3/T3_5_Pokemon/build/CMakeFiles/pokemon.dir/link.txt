@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/pokemon.dir/src/main.cpp.o CMakeFiles/pokemon.dir/src/pokemon.cpp.o  -o pokemon 

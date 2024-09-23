@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_5_Pokemon/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_5_Pokemon/. -I/home/lyj/cpp-course/Module_3/T3_5_Pokemon/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/pokemon.dir/src/main.cpp.o -c /home/lyj/cpp-course/Module_3/T3_5_Pokemon/src/main.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_5_Pokemon/src/main.cpp"
+},
+{
+  "directory": "/home/lyj/cpp-course/Module_3/T3_5_Pokemon/build",
+  "command": "/usr/bin/g++   -I/home/lyj/cpp-course/Module_3/T3_5_Pokemon/. -I/home/lyj/cpp-course/Module_3/T3_5_Pokemon/src  -g   -Wall -Wextra -pedantic -Wno-missing-field-initializers -std=gnu++17 -o CMakeFiles/pokemon.dir/src/pokemon.cpp.o -c /home/lyj/cpp-course/Module_3/T3_5_Pokemon/src/pokemon.cpp",
+  "file": "/home/lyj/cpp-course/Module_3/T3_5_Pokemon/src/pokemon.cpp"
+}
+]

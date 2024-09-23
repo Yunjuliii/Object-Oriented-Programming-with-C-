@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lyj/cpp-course/Module_3/T3_5_Pokemon/src/pokemon.cpp
+pokemon.hpp
+/home/lyj/cpp-course/Module_3/T3_5_Pokemon/src/pokemon.hpp
+
+/home/lyj/cpp-course/Module_3/T3_5_Pokemon/src/pokemon.hpp
+iostream
+-
+list
+-
+string
+-
+utility
+-
+
